@@ -1,11 +1,13 @@
 {
   "version": 1,
   "themes": {
-          "name": "Amandla.mobi",
-          "repo": "https://github.com/francesmcmullin/amandla-wcms-theme/tree/main",
-          "zip": "https://github.com/francesmcmullin/amandla-wcms-theme/archive/main.zip",
-          "summary": "WonderCMS theme for Amandla.mobi",
-          "version": "1.0.0",
-          "image": "https://raw.githubusercontent.com/francesmcmullin/amandla-wcms-theme/main/preview.jpg"
+    "amandla-wcms-theme": {
+      "name": "Amandla.mobi",
+      "repo": "https://github.com/francesmcmullin/amandla-wcms-theme/tree/main",
+      "zip": "https://github.com/francesmcmullin/amandla-wcms-theme/archive/main.zip",
+      "summary": "WonderCMS theme for Amandla.mobi",
+      "version": "1.0.0",
+      "image": "https://raw.githubusercontent.com/francesmcmullin/amandla-wcms-theme/main/preview.jpg"
+    }
   }
 }
